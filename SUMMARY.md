@@ -36,6 +36,7 @@
   * [KDEneon](linux/kdeneon.md)
   * [Ubuntu](linux/ubuntu.md)
 * [Unsorted](unsorted/README.md)
+  * [GitHub](unsorted/github.md)
   * [Инструкция как освоить английский за месяц](unsorted/instrukciya-kak-osvoit-angliiskii-za-mesyac.md)
   * [Трансформация речи](unsorted/transformaciya-rechi.md)
   * [Что такое экстенсиональность?](unsorted/chto-takoe-ekstensionalnost.md)
