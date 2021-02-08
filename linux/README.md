@@ -14,15 +14,13 @@ Linux — семейство Unix-подобных операционных си
 
 [**Способы обновления**](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02J3lf19BtXOylu0BSLHOk_zh96uQ:1609716386474&q=linux+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&stick=H4sIAAAAAAAAAOPgE-LUz9U3SCuoqirQUs0ot9JPzs_JSU0uyczP0y_OTyspTyxKtSotSEksSVXITS3JyE9ZxKqZk5lXWqFwsfHC_gv7gOS-CxsvdiuAqAt7geSmC7svbAWydlzsBwBJrjKoYAAAAA&sa=X&ved=2ahUKEwiZmJ7r9IDuAhWDw4sKHYHsCiMQ6BMoADAZegQIIRAC): [KernelCare](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02J3lf19BtXOylu0BSLHOk_zh96uQ:1609716386474&q=kernelcare&stick=H4sIAAAAAAAAAOPgE-LUz9U3SCuoqipQ4tVP1zc0TCo3NUwvTCrTUs0ot9JPzs_JSU0uyczP0y_OTyspTyxKtSotSEksSVXITS3JyE9ZxMqVnVqUl5qTDJTawcoIADQ-o8lTAAAA&sa=X&ved=2ahUKEwiZmJ7r9IDuAhWDw4sKHYHsCiMQmxMoATAZegQIIRAD), [dpkg](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02J3lf19BtXOylu0BSLHOk_zh96uQ:1609716386474&q=dpkg&stick=H4sIAAAAAAAAAOPgE-LUz9U3SCuoqipQAjMNLfNMk7VUM8qt9JPzc3JSk0sy8_P0i_PTSsoTi1KtSgtSEktSFXJTSzLyUxaxsqQUZKfvYGUEAAoUvwBJAAAA&sa=X&ved=2ahUKEwiZmJ7r9IDuAhWDw4sKHYHsCiMQmxMoAjAZegQIIRAE), [GNOME Software](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02J3lf19BtXOylu0BSLHOk_zh96uQ:1609716386474&q=gnome+software&stick=H4sIAAAAAAAAAOPgE-LUz9U3SCuoqipQ4gYxDQ2MLDIKS7RUM8qt9JPzc3JSk0sy8_P0i_PTSsoTi1KtSgtSEktSFXJTSzLyUxax8qXn5eemKsCkd7AyAgDgYUiYVQAAAA&sa=X&ved=2ahUKEwiZmJ7r9IDuAhWDw4sKHYHsCiMQmxMoAzAZegQIIRAF)
 
-## Основатель
+### Основатель
 
 финн Линус Торвальдс
 
 > «Многие люди даже не подозревают, что используют **Linux**», – говорил ее создатель финн Линус Торвальдс в интервью журналу **Linux**.
 >
 > 6 февр. 2019 г.
-
-{% page-ref page="ubuntu.md" %}
 
 
 
