@@ -30,6 +30,7 @@
 * [Общая Семантика](gs/README.md)
   * [Книги](gs/gs-books.md)
 * [Linux](linux/README.md)
+  * [Debian](linux/debian.md)
   * [KDEneon](linux/kdeneon.md)
   * [Ubuntu](linux/ubuntu.md)
 * [Unsorted](unsorted/README.md)
