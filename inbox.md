@@ -7,7 +7,7 @@
 * Move information to more specific documents and link to them.
   * This helps you navigate between documents quickly
   * For example, you can `Cmd`+`Click` this: \[[todo](todo.md)\]
-* Some notes don't end up making sense the next day [linux]()
+* Some notes don't end up making sense the next day [linux](inbox.md)
 * That's ok, you can just delete them!
   * You can always find them in your git history, if you really need it!
 
