@@ -4,13 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "46512fba5c826441",
+        "id": "764cf239a0a7ca64",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "linux/debian.md",
+            "mode": "source"
+          }
+        },
+        "group": "20d41218c258b2c4"
+      },
+      {
+        "id": "2d8a0ada0c3729b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux/debian.md",
+            "mode": "preview"
+          }
+        },
+        "group": "20d41218c258b2c4"
       }
     ],
     "direction": "vertical"
@@ -66,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "linux/debian.md",
+    "linux/linux.md",
+    "linux/README.md",
+    "linux/kdeneon.md",
+    "SUMMARY.md",
+    "README.md",
     "unsorted/stoicizm.md",
     "unsorted/stoicizm/aleksandr-salikov-stoicizm-eto-ne-vera-stoicizm-eto-filosofiya.md",
     "unsorted/stoicizm/README.md",
-    "unsorted/stoicizm/stoicizm-kakie-knigi-pochitat.md",
-    "linux/ubuntu/README.md",
-    "tvp/materialy/README.md",
-    "unsorted/manipulation.md",
-    "unsorted/manipulyaciya.md",
-    "gs/gs-books.md",
-    "gs/README.md"
+    "unsorted/stoicizm/stoicizm-kakie-knigi-pochitat.md"
   ]
 }
