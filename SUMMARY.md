@@ -32,6 +32,7 @@
 * [Linux](linux/README.md)
   * [Arch](linux/arch.md)
   * [Debian](linux/debian.md)
+  * [Kali Linux](linux/kali-linux.md)
   * [KDEneon](linux/kdeneon.md)
   * [Ubuntu](linux/ubuntu.md)
 * [Unsorted](unsorted/README.md)
