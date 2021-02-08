@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "ee947b483d5dc83d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46512fba5c826441",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03ab7d1d9d8835c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2585ac52d0e6af9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90164b9e7847655c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e4c43c084fd522b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325
+  },
+  "right": {
+    "id": "3a55c4ec39f16767",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d1f84e7e339fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d794fb0e0aa93cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "unsorted/stoicizm.md",
+    "unsorted/stoicizm/aleksandr-salikov-stoicizm-eto-ne-vera-stoicizm-eto-filosofiya.md",
+    "unsorted/stoicizm/README.md",
+    "unsorted/stoicizm/stoicizm-kakie-knigi-pochitat.md",
+    "linux/ubuntu/README.md",
+    "tvp/materialy/README.md",
+    "unsorted/manipulation.md",
+    "unsorted/manipulyaciya.md",
+    "gs/gs-books.md",
+    "gs/README.md"
+  ]
+}
