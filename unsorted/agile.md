@@ -1,7 +1,5 @@
 # Agile
 
-
-
 * [Записи двух вебинаров про Agile в образовании — Сергей Афонин](https://sergeyafonin.ru/zapisi-dvux-vebinarov-pro-agile-v-obrazovanii/)
   * [Вебинар для педагогов «Образование на принципах Agile»](https://youtu.be/t2bmm5LuMYU)
     * История возникновения Agile-подхода
