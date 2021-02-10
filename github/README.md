@@ -8,4 +8,4 @@
 
 [Git и GitHub Курс Для Новичков](https://youtu.be/zZBiln_2FhM)
 
-[О файле .gitignore](О%20файле%20.gitignore.md)
+[О файле .gitignore](gitignore.md)
