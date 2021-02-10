@@ -37,6 +37,7 @@
   * [Ubuntu](linux/ubuntu.md)
 * [Git](github/README.md)
   * [Оформление коммитов](github/oformlenie-kommitov.md)
+  * [О файле .gitignore](github/gitignore.md)
 * [Unsorted](unsorted/README.md)
   * [GitHub](unsorted/github.md)
   * [Инструкция как освоить английский за месяц](unsorted/instrukciya-kak-osvoit-angliiskii-za-mesyac.md)
