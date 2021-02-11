@@ -1,4 +1,0 @@
-# KDEneon
-
-KDEneon content
-
