@@ -12,7 +12,7 @@
 - Категории удобно открывать в режиме локального графа (local graph) `Ctrl+Shift+G`
 - Иногда можно открыть рандомную заметку и подумать над связями
 
-![[Zettelkasten graph example.png]]
+[![](./assets/Zettelkasten%20graph%20example.png)](./assets/Zettelkasten%20graph%20example.png)
 
 ## Поиск
 - Просмотр по каталогам — `Ctrl+O` ➜ 00  ➜ тема  ➜ смотрим "Категории" или ссылающиеся страницы, или локальный граф `Ctrl+Shift+G`
