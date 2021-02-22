@@ -1,15 +1,17 @@
+# Git
+
 202102130043
 Tags: #git #программирование
 ___
-# Git
 
+## Источники
 
-___
 ### Категории
-- [[00 Программирование]]
 
-___
+- [00 Программирование](00%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md)
+
 ### Ссылки
+
 - [Как использовать Git и GitHub на практике](https://youtu.be/lveWumi0BeQ)
 - [Git: азы работы](https://www.youtube.com/watch?v=wvqiGJu3YmQ&list=PLsQAG1V_t58Cd5Anx_wJ7-KIzCA8SPOa1)
 - [Базовый курс по Git](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
