@@ -13,6 +13,6 @@ Linux — семейство Unix-подобных операционных си
 [Полный список дистрибутивов. (Википедия)](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D0%BE%D0%B2_Linux)
 
 - [Ubuntu](Ubuntu.md)
-	- [KDE Neon](KDE%20Neon.md)
+  - [KDE Neon](KDE%20Neon.md)
 - [Arch](Arch.md)
-	- [Manjaro](Manjaro.md)
+  - [Manjaro](Manjaro.md)
