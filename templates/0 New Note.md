@@ -1,4 +1,4 @@
-# Заголовок
+# 
 
 {{date:YYYYMMDD}}{{time:HHmm}}
 Tags: #
