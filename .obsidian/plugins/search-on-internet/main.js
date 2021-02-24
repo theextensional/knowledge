@@ -7,7 +7,7 @@ var childProcess = require('child_process');
 var fs = require('fs');
 var os = require('os');
 
-function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
+function _interopDefaultLegacy(e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 
 var require$$0__default = /*#__PURE__*/_interopDefaultLegacy(require$$0);
 var path__default = /*#__PURE__*/_interopDefaultLegacy(path);
@@ -31,7 +31,7 @@ PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 /* global Reflect, Promise */
 
-var extendStatics = function(d, b) {
+var extendStatics = function (d, b) {
     extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
@@ -57,8 +57,8 @@ function __awaiter(thisArg, _arguments, P, generator) {
 }
 
 function __generator(thisArg, body) {
-    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
-    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    var _ = { label: 0, sent: function () { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function () { return this; }), g;
     function verb(n) { return function (v) { return step([n, v]); }; }
     function step(op) {
         if (f) throw new TypeError("Generator is already executing.");
@@ -86,14 +86,14 @@ function __generator(thisArg, body) {
 
 var DEFAULT_SETTING = {
     searches: [{
-            tags: [],
-            query: 'https://www.google.com/search?&q={{query}}',
-            name: 'Google',
-        }, {
-            tags: [],
-            query: 'https://en.wikipedia.org/wiki/Special:Search/{{query}}',
-            name: 'Wikipedia',
-        }],
+        tags: [],
+        query: 'https://www.google.com/search?&q={{query}}',
+        name: 'Google',
+    }, {
+        tags: [],
+        query: 'https://ru.wikipedia.org/wiki/Special:Search/{{query}}',
+        name: 'Wikipedia',
+    }],
     useIframe: true,
 };
 var parseTags = function (inputs) {
@@ -116,70 +116,70 @@ var SOISettingTab = /** @class */ (function (_super) {
         new obsidian.Setting(containerEl)
             .setName('Open in iframe')
             .setDesc('If set to true, this will open your searches in an iframe within Obsidian. ' +
-            'Otherwise, it will open in your default browser.')
+                'Otherwise, it will open in your default browser.')
             .addToggle(function (toggle) {
-            toggle.setValue(_this.plugin.settings.useIframe)
-                .onChange(function (new_value) {
-                _this.plugin.settings.useIframe = new_value;
-                _this.plugin.saveData(_this.plugin.settings);
+                toggle.setValue(_this.plugin.settings.useIframe)
+                    .onChange(function (new_value) {
+                        _this.plugin.settings.useIframe = new_value;
+                        _this.plugin.saveData(_this.plugin.settings);
+                    });
             });
-        });
         // Code mostly taken from https://github.com/SilentVoid13/Templater/blob/master/src/settings.ts
         plugin.settings.searches.forEach(function (search) {
             var div = containerEl.createEl('div');
             div.addClass('soi_div');
             new obsidian.Setting(div) //
                 .addExtraButton(function (extra) {
-                extra.setIcon('cross')
-                    .setTooltip('Delete')
-                    .onClick(function () {
-                    var index = plugin.settings.searches.indexOf(search);
-                    if (index > -1) {
-                        plugin.settings.searches.splice(index, 1);
-                        // Force refresh
-                        _this.display();
-                    }
-                });
-            })
+                    extra.setIcon('cross')
+                        .setTooltip('Delete')
+                        .onClick(function () {
+                            var index = plugin.settings.searches.indexOf(search);
+                            if (index > -1) {
+                                plugin.settings.searches.splice(index, 1);
+                                // Force refresh
+                                _this.display();
+                            }
+                        });
+                })
                 .addText(function (text) {
-                return text.setPlaceholder('Search name')
-                    .setValue(search.name)
-                    .onChange(function (newValue) {
-                    var index = plugin.settings.searches.indexOf(search);
-                    if (index > -1) {
-                        search.name = newValue;
-                        plugin.saveSettings();
-                        // title.textContent = newValue;
-                    }
-                });
-            }).setName('Name')
+                    return text.setPlaceholder('Search name')
+                        .setValue(search.name)
+                        .onChange(function (newValue) {
+                            var index = plugin.settings.searches.indexOf(search);
+                            if (index > -1) {
+                                search.name = newValue;
+                                plugin.saveSettings();
+                                // title.textContent = newValue;
+                            }
+                        });
+                }).setName('Name')
                 .setDesc('Name of the search. Click the cross to delete the search.');
             new obsidian.Setting(div)
                 .addTextArea(function (text) {
-                var t = text.setPlaceholder('Search query')
-                    .setValue(search.query)
-                    .onChange(function (newQuery) {
-                    var index = plugin.settings.searches.indexOf(search);
-                    if (index > -1) {
-                        search.query = newQuery;
-                        plugin.saveSettings();
-                    }
-                });
-                t.inputEl.setAttr('rows', 2);
-                return t; //
-            }).setName('URL')
+                    var t = text.setPlaceholder('Search query')
+                        .setValue(search.query)
+                        .onChange(function (newQuery) {
+                            var index = plugin.settings.searches.indexOf(search);
+                            if (index > -1) {
+                                search.query = newQuery;
+                                plugin.saveSettings();
+                            }
+                        });
+                    t.inputEl.setAttr('rows', 2);
+                    return t; //
+                }).setName('URL')
                 .setDesc('URL to open when executing the search. ' +
-                'Use {{query}} to refer to the query, which is either the selected text, or the title of a note.');
+                    'Use {{query}} to refer to the query, which is either the selected text, or the title of a note.');
             new obsidian.Setting(div).addText(function (text) {
                 return text.setPlaceholder('')
                     .setValue(search.tags.join(', '))
                     .onChange(function (newValue) {
-                    var index = plugin.settings.searches.indexOf(search);
-                    if (index > -1) {
-                        search.tags = parseTags(newValue);
-                        plugin.saveSettings();
-                    }
-                });
+                        var index = plugin.settings.searches.indexOf(search);
+                        if (index > -1) {
+                            search.tags = parseTags(newValue);
+                            plugin.saveSettings();
+                        }
+                    });
             }).setName('Tags')
                 .setDesc('Only add search to notes with these comma-separated tags. Leave empty to use all tags.');
         });
@@ -187,16 +187,16 @@ var SOISettingTab = /** @class */ (function (_super) {
         div.addClass('soi_div2');
         var setting = new obsidian.Setting(containerEl)
             .addButton(function (button) {
-            return button.setButtonText('Add Search').onClick(function () {
-                plugin.settings.searches.push({
-                    name: '',
-                    query: '',
-                    tags: [],
+                return button.setButtonText('Add Search').onClick(function () {
+                    plugin.settings.searches.push({
+                        name: '',
+                        query: '',
+                        tags: [],
+                    });
+                    // Force refresh
+                    _this.display();
                 });
-                // Force refresh
-                _this.display();
             });
-        });
         setting.infoEl.remove();
         div.appendChild(containerEl.lastChild);
     };
@@ -204,44 +204,44 @@ var SOISettingTab = /** @class */ (function (_super) {
 }(obsidian.PluginSettingTab));
 
 function createCommonjsModule(fn, basedir, module) {
-	return module = {
-		path: basedir,
-		exports: {},
-		require: function (path, base) {
-			return commonjsRequire(path, (base === undefined || base === null) ? module.path : base);
-		}
-	}, fn(module, module.exports), module.exports;
+    return module = {
+        path: basedir,
+        exports: {},
+        require: function (path, base) {
+            return commonjsRequire(path, (base === undefined || base === null) ? module.path : base);
+        }
+    }, fn(module, module.exports), module.exports;
 }
 
-function commonjsRequire () {
-	throw new Error('Dynamic requires are not currently supported by @rollup/plugin-commonjs');
+function commonjsRequire() {
+    throw new Error('Dynamic requires are not currently supported by @rollup/plugin-commonjs');
 }
 
 let isDocker;
 
 function hasDockerEnv() {
-	try {
-		fs__default['default'].statSync('/.dockerenv');
-		return true;
-	} catch (_) {
-		return false;
-	}
+    try {
+        fs__default['default'].statSync('/.dockerenv');
+        return true;
+    } catch (_) {
+        return false;
+    }
 }
 
 function hasDockerCGroup() {
-	try {
-		return fs__default['default'].readFileSync('/proc/self/cgroup', 'utf8').includes('docker');
-	} catch (_) {
-		return false;
-	}
+    try {
+        return fs__default['default'].readFileSync('/proc/self/cgroup', 'utf8').includes('docker');
+    } catch (_) {
+        return false;
+    }
 }
 
 var isDocker_1 = () => {
-	if (isDocker === undefined) {
-		isDocker = hasDockerEnv() || hasDockerCGroup();
-	}
+    if (isDocker === undefined) {
+        isDocker = hasDockerEnv() || hasDockerCGroup();
+    }
 
-	return isDocker;
+    return isDocker;
 };
 
 var isWsl_1 = createCommonjsModule(function (module) {
@@ -249,35 +249,35 @@ var isWsl_1 = createCommonjsModule(function (module) {
 
 
 
-const isWsl = () => {
-	if (process.platform !== 'linux') {
-		return false;
-	}
+    const isWsl = () => {
+        if (process.platform !== 'linux') {
+            return false;
+        }
 
-	if (os__default['default'].release().toLowerCase().includes('microsoft')) {
-		if (isDocker_1()) {
-			return false;
-		}
+        if (os__default['default'].release().toLowerCase().includes('microsoft')) {
+            if (isDocker_1()) {
+                return false;
+            }
 
-		return true;
-	}
+            return true;
+        }
 
-	try {
-		return fs__default['default'].readFileSync('/proc/version', 'utf8').toLowerCase().includes('microsoft') ?
-			!isDocker_1() : false;
-	} catch (_) {
-		return false;
-	}
-};
+        try {
+            return fs__default['default'].readFileSync('/proc/version', 'utf8').toLowerCase().includes('microsoft') ?
+                !isDocker_1() : false;
+        } catch (_) {
+            return false;
+        }
+    };
 
-if (process.env.__IS_WSL_TEST__) {
-	module.exports = isWsl;
-} else {
-	module.exports = isWsl();
-}
+    if (process.env.__IS_WSL_TEST__) {
+        module.exports = isWsl;
+    } else {
+        module.exports = isWsl();
+    }
 });
 
-const {promisify} = require$$0__default['default'];
+const { promisify } = require$$0__default['default'];
 
 
 
@@ -290,138 +290,138 @@ const pAccess = promisify(fs__default['default'].access);
 const localXdgOpenPath = path__default['default'].join(__dirname, 'xdg-open');
 
 var open = async (target, options) => {
-	if (typeof target !== 'string') {
-		throw new TypeError('Expected a `target`');
-	}
+    if (typeof target !== 'string') {
+        throw new TypeError('Expected a `target`');
+    }
 
-	options = {
-		wait: false,
-		background: false,
-		allowNonzeroExitCode: false,
-		...options
-	};
+    options = {
+        wait: false,
+        background: false,
+        allowNonzeroExitCode: false,
+        ...options
+    };
 
-	let command;
-	let {app} = options;
-	let appArguments = [];
-	const cliArguments = [];
-	const childProcessOptions = {};
+    let command;
+    let { app } = options;
+    let appArguments = [];
+    const cliArguments = [];
+    const childProcessOptions = {};
 
-	if (Array.isArray(app)) {
-		appArguments = app.slice(1);
-		app = app[0];
-	}
+    if (Array.isArray(app)) {
+        appArguments = app.slice(1);
+        app = app[0];
+    }
 
-	if (process.platform === 'darwin') {
-		command = 'open';
+    if (process.platform === 'darwin') {
+        command = 'open';
 
-		if (options.wait) {
-			cliArguments.push('--wait-apps');
-		}
+        if (options.wait) {
+            cliArguments.push('--wait-apps');
+        }
 
-		if (options.background) {
-			cliArguments.push('--background');
-		}
+        if (options.background) {
+            cliArguments.push('--background');
+        }
 
-		if (app) {
-			cliArguments.push('-a', app);
-		}
-	} else if (process.platform === 'win32' || (isWsl_1 && !isDocker_1())) {
-		command = isWsl_1 ?
-			'/mnt/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe' :
-			`${process.env.SYSTEMROOT}\\System32\\WindowsPowerShell\\v1.0\\powershell`;
+        if (app) {
+            cliArguments.push('-a', app);
+        }
+    } else if (process.platform === 'win32' || (isWsl_1 && !isDocker_1())) {
+        command = isWsl_1 ?
+            '/mnt/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe' :
+            `${process.env.SYSTEMROOT}\\System32\\WindowsPowerShell\\v1.0\\powershell`;
 
-		cliArguments.push(
-			'-NoProfile',
-			'-NonInteractive',
-			'–ExecutionPolicy',
-			'Bypass',
-			'-EncodedCommand'
-		);
+        cliArguments.push(
+            '-NoProfile',
+            '-NonInteractive',
+            '–ExecutionPolicy',
+            'Bypass',
+            '-EncodedCommand'
+        );
 
-		if (!isWsl_1) {
-			childProcessOptions.windowsVerbatimArguments = true;
-		}
+        if (!isWsl_1) {
+            childProcessOptions.windowsVerbatimArguments = true;
+        }
 
-		const encodedArguments = ['Start'];
+        const encodedArguments = ['Start'];
 
-		if (options.wait) {
-			encodedArguments.push('-Wait');
-		}
+        if (options.wait) {
+            encodedArguments.push('-Wait');
+        }
 
-		if (app) {
-			// Double quote with double quotes to ensure the inner quotes are passed through.
-			// Inner quotes are delimited for PowerShell interpretation with backticks.
-			encodedArguments.push(`"\`"${app}\`""`, '-ArgumentList');
-			appArguments.unshift(target);
-		} else {
-			encodedArguments.push(`"\`"${target}\`""`);
-		}
+        if (app) {
+            // Double quote with double quotes to ensure the inner quotes are passed through.
+            // Inner quotes are delimited for PowerShell interpretation with backticks.
+            encodedArguments.push(`"\`"${app}\`""`, '-ArgumentList');
+            appArguments.unshift(target);
+        } else {
+            encodedArguments.push(`"\`"${target}\`""`);
+        }
 
-		if (appArguments.length > 0) {
-			appArguments = appArguments.map(arg => `"\`"${arg}\`""`);
-			encodedArguments.push(appArguments.join(','));
-		}
+        if (appArguments.length > 0) {
+            appArguments = appArguments.map(arg => `"\`"${arg}\`""`);
+            encodedArguments.push(appArguments.join(','));
+        }
 
-		// Using Base64-encoded command, accepted by PowerShell, to allow special characters.
-		target = Buffer.from(encodedArguments.join(' '), 'utf16le').toString('base64');
-	} else {
-		if (app) {
-			command = app;
-		} else {
-			// When bundled by Webpack, there's no actual package file path and no local `xdg-open`.
-			const isBundled = !__dirname || __dirname === '/';
+        // Using Base64-encoded command, accepted by PowerShell, to allow special characters.
+        target = Buffer.from(encodedArguments.join(' '), 'utf16le').toString('base64');
+    } else {
+        if (app) {
+            command = app;
+        } else {
+            // When bundled by Webpack, there's no actual package file path and no local `xdg-open`.
+            const isBundled = !__dirname || __dirname === '/';
 
-			// Check if local `xdg-open` exists and is executable.
-			let exeLocalXdgOpen = false;
-			try {
-				await pAccess(localXdgOpenPath, fs__default['default'].constants.X_OK);
-				exeLocalXdgOpen = true;
-			} catch (_) {}
+            // Check if local `xdg-open` exists and is executable.
+            let exeLocalXdgOpen = false;
+            try {
+                await pAccess(localXdgOpenPath, fs__default['default'].constants.X_OK);
+                exeLocalXdgOpen = true;
+            } catch (_) { }
 
-			const useSystemXdgOpen = process.versions.electron ||
-				process.platform === 'android' || isBundled || !exeLocalXdgOpen;
-			command = useSystemXdgOpen ? 'xdg-open' : localXdgOpenPath;
-		}
+            const useSystemXdgOpen = process.versions.electron ||
+                process.platform === 'android' || isBundled || !exeLocalXdgOpen;
+            command = useSystemXdgOpen ? 'xdg-open' : localXdgOpenPath;
+        }
 
-		if (appArguments.length > 0) {
-			cliArguments.push(...appArguments);
-		}
+        if (appArguments.length > 0) {
+            cliArguments.push(...appArguments);
+        }
 
-		if (!options.wait) {
-			// `xdg-open` will block the process unless stdio is ignored
-			// and it's detached from the parent even if it's unref'd.
-			childProcessOptions.stdio = 'ignore';
-			childProcessOptions.detached = true;
-		}
-	}
+        if (!options.wait) {
+            // `xdg-open` will block the process unless stdio is ignored
+            // and it's detached from the parent even if it's unref'd.
+            childProcessOptions.stdio = 'ignore';
+            childProcessOptions.detached = true;
+        }
+    }
 
-	cliArguments.push(target);
+    cliArguments.push(target);
 
-	if (process.platform === 'darwin' && appArguments.length > 0) {
-		cliArguments.push('--args', ...appArguments);
-	}
+    if (process.platform === 'darwin' && appArguments.length > 0) {
+        cliArguments.push('--args', ...appArguments);
+    }
 
-	const subprocess = childProcess__default['default'].spawn(command, cliArguments, childProcessOptions);
+    const subprocess = childProcess__default['default'].spawn(command, cliArguments, childProcessOptions);
 
-	if (options.wait) {
-		return new Promise((resolve, reject) => {
-			subprocess.once('error', reject);
+    if (options.wait) {
+        return new Promise((resolve, reject) => {
+            subprocess.once('error', reject);
 
-			subprocess.once('close', exitCode => {
-				if (options.allowNonzeroExitCode && exitCode > 0) {
-					reject(new Error(`Exited with code ${exitCode}`));
-					return;
-				}
+            subprocess.once('close', exitCode => {
+                if (options.allowNonzeroExitCode && exitCode > 0) {
+                    reject(new Error(`Exited with code ${exitCode}`));
+                    return;
+                }
 
-				resolve(subprocess);
-			});
-		});
-	}
+                resolve(subprocess);
+            });
+        });
+    }
 
-	subprocess.unref();
+    subprocess.unref();
 
-	return subprocess;
+    return subprocess;
 };
 
 var SearchModal = /** @class */ (function (_super) {
@@ -521,8 +521,8 @@ var SearchOnInternetPlugin = /** @class */ (function (_super) {
                                     menu.addItem(function (item) {
                                         item.setTitle("Search " + search.name).setIcon('search')
                                             .onClick(function (evt) {
-                                            plugin.openSearch(search, file.basename);
-                                        });
+                                                plugin.openSearch(search, file.basename);
+                                            });
                                     });
                                 }
                             });
@@ -592,8 +592,8 @@ var SearchOnInternetPlugin = /** @class */ (function (_super) {
                     fileMenu.addItem(function (item) {
                         item.setTitle("Search " + setting.name).setIcon('search')
                             .onClick(function (evt) {
-                            _this.openSearch(setting, query, activeView);
-                        });
+                                _this.openSearch(setting, query, activeView);
+                            });
                     });
                 };
                 for (_i = 0, _a = this.settings.searches; _i < _a.length; _i++) {
