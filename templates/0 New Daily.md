@@ -1,5 +1,5 @@
 # {{date:YYYY-MM-DD}}
 
-Tags: #
+Тэги: #
 ___
 

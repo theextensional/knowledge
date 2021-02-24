@@ -1,7 +1,7 @@
 # 
 
 {{date:YYYYMMDD}}{{time:HHmm}}
-Tags: #
+Тэги: #
 ___
 
 ## Источники
