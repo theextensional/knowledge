@@ -1,7 +1,7 @@
 # Sublime Text 3
 
 202102230454
-Теги: #sublime #программа #текстовыйРедактор
+Теги: #sublime #программа #текстовыйредактор
 ___
 ![sublime-logo|100](../assets/sublime-logo.png)
 
