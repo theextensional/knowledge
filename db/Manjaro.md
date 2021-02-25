@@ -1,7 +1,7 @@
 # Manjaro Linux
 
 202102181117
-Тэги: #linux #manjaro
+Теги: #linux #manjaro
 ___
 
 Материал из [Википедии](https://ru.wikipedia.org/wiki/Manjaro_Linux) — свободной энциклопедии
