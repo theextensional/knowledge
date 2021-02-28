@@ -1,4 +1,4 @@
-# {{title}}
+# 
 
 {{date:YYYYMMDD}}{{time:HHmm}}
 Теги: #
