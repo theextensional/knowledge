@@ -4,7 +4,7 @@
 Теги: #проектвенера #жакфреско #tvp #faq #чаво #чзв
 ___
 
-![../assets/tvp-faq.jpg](../assets/tvp-faq.jpg)
+![TVP - часто задаваемые вопросы](../assets/tvp-faq.jpg)
 
 ## Вопросы
 
@@ -21,9 +21,8 @@ ___
 
 ## Категории
 
-* [00 Проект Венера](00%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0.md)
+* [00 Проект Венера - TVP](00%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%20-%20TVP.md)
 
 ## Ссылки
 
 * FAQ по проекту «Венера» ([сайт](https://designing-the-future.org/the-venus-project-faq/), [youtube](https://youtu.be/4dLJH2S1llQ), [PDF](https://designing-the-future.org/wp-content/uploads/2014/04/TheVenusProject_FAQ_RUS.pdf), [EPUB](http://www.tvpactivism.ru/files/TheVenusProject_FAQ_RUS.epub))
-* 
