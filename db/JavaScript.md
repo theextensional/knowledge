@@ -19,6 +19,7 @@ JavaScript-код может выполняться в браузерах, на 
 * [13 однострочников на JavaScript, которые сделают вас профессионалом](13%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20JavaScript,%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82%20%D0%B2%D0%B0%D1%81%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%BC.md)
 * [ES6, ES7, ES8 - ВСЕ НОВОВВЕДЕНИЯ В JAVASCRIPT](https://youtu.be/Ti2Q4sQkNdU)
 * [JavaScript. 18 способов сократить JS код](https://www.youtube.com/watch?v=ReE8k-SHnbM)
+* [JavaScript разработка в 2021](https://www.youtube.com/watch?v=181VnUUJq-Y)
 
 ## Ссылки на эту страницу
 
