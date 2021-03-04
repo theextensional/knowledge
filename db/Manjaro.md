@@ -1,8 +1,6 @@
 # Manjaro Linux
 
-202102181117
 Теги: #linux #manjaro
-___
 
 Материал из [Википедии](https://ru.wikipedia.org/wiki/Manjaro_Linux) — свободной энциклопедии
 
@@ -12,10 +10,6 @@ ___
 - [Википедия](https://ru.wikipedia.org/wiki/Manjaro_Linux)
 - [Скачать для установки](https://manjaro.org/download/)
 
-___
-### Категории
-- [00 Linux](00%20Linux.md)
+### Ссылки на эту страницу
+- [Linux](Linux.md)
 
-___
-### Ссылки
-- 

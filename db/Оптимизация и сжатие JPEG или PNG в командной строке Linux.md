@@ -1,8 +1,6 @@
 # How to Optimize and Compress JPEG or PNG Images in Linux Commandline
 
-202102240650
 Теги: #linux #compress #сжатие #cli #команднаястрока #linuxtricks #оптимизация #optimize #jpg #jpeg #png
-___
 
 You have a lot of images, and want to optimize and compress the images without losing its original quality before uploading them to any cloud or local storages? There are plenty of GUI applications available which will help you to optimize the images. However, here are two simple command line utilities to optimize images and they are:
 
@@ -262,14 +260,12 @@ $ man optipng
 If you’re a webmaster and wants to serve optimized images over your website or a blog, these tools can be very handy. These tools not only saves the disk space, but also the reduces the bandwidth while uploading the images.
 
 If you know any other better way to achieve same thing, do let us know via comments and don’t forget to share this article on your social networks and support us.
-___
 
 ## Источник
 
 - https://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/
 
-## Категории
+## Ссылки на эту страницу
 
-- [00 Linux](00%20Linux.md)
-- [00 Bash](00%20Bash.md)
-- [00 CLI](00%20CLI.md)
+- [Linux](Linux.md)
+- [Bash](Bash.md)

@@ -1,8 +1,6 @@
 # How to Convert WebP to PNG in Linux
 
-202102260339
 Теги: #convert #webp #png #cli #linux #linuxtricks 
-___
 
 
 ## Convert WebP to PNG
@@ -64,9 +62,3 @@ cwebp -q 80 file.png -o file.webp
 ```
 
 That's it.
-
-## Категории
-* 
-
-## Ссылки
-* 

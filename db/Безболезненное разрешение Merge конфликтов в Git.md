@@ -1,8 +1,6 @@
 # Безболезненное разрешение Merge конфликтов в Git
 
-202102221710
 Теги: #git #программирование #туториал #руководство
-___
 
 Предлагаю читателям "Хабрахабра" перевод публикации ["Painless Merge Conflict Resolution in Git"](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html) из блога blog.wuwon.id.au.
 
@@ -228,10 +226,10 @@ tmux split-window -t "$sn:1" -h "nvim -d $1 $3"
 
 - https://habr.com/ru/post/323234/
 
-## Категории
-
-- [00 Git](00%20Git.md)
-
 ## Ссылки
 
 - [Git -  merge конфликтов](Git%20-%20%20merge%20%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2.md)
+
+## Ссылки на эту страницу
+
+- [Git](Git.md)
