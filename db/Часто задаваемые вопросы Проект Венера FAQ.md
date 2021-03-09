@@ -19,7 +19,7 @@
 
 ## Ссылки
 
-* FAQ по проекту «Венера» ([сайт](https://designing-the-future.org/the-venus-project-faq/), [youtube](https://youtu.be/4dLJH2S1llQ), [PDF](https://designing-the-future.org/wp-content/uploads/2014/04/TheVenusProject_FAQ_RUS.pdf), [EPUB](http://www.tvpactivism.ru/files/TheVenusProject_FAQ_RUS.epub))
+* [[FAQ по проекту «Венера»]] ([сайт](https://designing-the-future.org/the-venus-project-faq/), [youtube](https://youtu.be/4dLJH2S1llQ), [PDF](https://designing-the-future.org/wp-content/uploads/2014/04/TheVenusProject_FAQ_RUS.pdf), [EPUB](http://www.tvpactivism.ru/files/TheVenusProject_FAQ_RUS.epub))
 
 ## Ссылки на эту страницу
 
