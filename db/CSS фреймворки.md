@@ -27,21 +27,21 @@ tags: [css, фреймворк, программирование]
 
 ## Выбираем CSS фреймворк
 
-* [Bootstrap - фреймворк](Bootstrap%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Foundation - фреймворк](Foundation%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Pure - фреймворк](Pure%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Bulma - фреймворк](Bulma%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Semantic UI - фреймворк](Semantic%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [UI Kit - фреймворк](UI%20Kit%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Materialize CSS - фреймворк](Materialize%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Milligram - фреймворк](Milligram%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Skeleton - фреймворк](Skeleton%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Tailwind CSS - фреймворк](Tailwind%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Spectre - фреймворк](Spectre%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Base - фреймворк](Base%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Picnic CSS - фреймворк](Picnic%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Mustard UI - фреймворк](Mustard%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Dead Simple Grid - фреймворк](Dead%20Simple%20Grid%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Bootstrap](Bootstrap%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Foundation](Foundation%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Pure](Pure%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Bulma](Bulma%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Semantic UI](Semantic%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [UI Kit](UI%20Kit%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Materialize CSS](Materialize%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Milligram](Milligram%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Skeleton](Skeleton%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Tailwind CSS](Tailwind%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Spectre](Spectre%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Base](Base%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Picnic CSS](Picnic%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Mustard UI](Mustard%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+* [Dead Simple Grid](Dead%20Simple%20Grid%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
 
 ## Как сделать выбор?
 
