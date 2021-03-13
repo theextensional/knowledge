@@ -1,1 +1,1 @@
-{"commitMessage":"add/upd: {{numFiles}}  files by Dukuu on {{date}}","commitDateFormat":"HH:mm DD-MM-YY","autoSaveInterval":0,"autoPullOnBoot":true,"disablePush":false,"disablePopups":false,"currentBranch":"master","remote":"origin"}
+{"commitMessage":"add/upd: {{numFiles}}  files added/updated by Dukuu on {{date}}","commitDateFormat":"HH:mm DD-MM-YY","autoSaveInterval":0,"autoPullOnBoot":true,"disablePush":false,"disablePopups":false,"currentBranch":"master","remote":"origin"}
