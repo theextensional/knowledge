@@ -1,6 +1,7 @@
+---
+tags: [discord, дискорд, боты]
+---
 # Как сделать оповещения с твича и ютуба в дискорде. Настройка дискорд бота. Carl bot
-
-Теги: #discord #боты 
 
 Добавить YouTube-канал:
 
@@ -46,7 +47,7 @@
 
 * [YouTube](https://www.youtube.com/watch?v=V7ElOLttVzw)
 
----
+## Обратные ссылки
 
 - [Discord](Discord.md)
 - [Боты для Discord](%D0%91%D0%BE%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20Discord.md)
