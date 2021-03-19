@@ -2,6 +2,8 @@
 
 Теги: #проектвенера #tvp #сообщество
 
+### [Старый список ТВП](http://directory.tvpsupport.com/)
+
 ### США 🇺🇸 - Международные
 
 - [Официальный сайт - The Venus Project](https://vk.com/away.php?to=http%3A%2F%2Fwww.thevenusproject.com%2F)
