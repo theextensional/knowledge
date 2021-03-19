@@ -1,8 +1,5 @@
 .trash/*
 .obsidian/
-.obsidian/workspace
-.obsidian/graph.json
-.obsidian/starred.json
 **.directory
 daily/*
 ideas/*
