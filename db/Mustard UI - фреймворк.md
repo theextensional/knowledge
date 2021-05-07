@@ -7,7 +7,7 @@ tags: [css, html, js, версткасайтов, фреймворк, вебра
 
 ![Mustard UI – CSS фреймворк для начинающих верстальщиков](https://media.proglib.io/posts/2020/01/14/d5deb9647d7f1475ef7cb56a94a469ca.png)
 
-Mustard UI – CSS фреймворк для начинающих верстальщиков
+[Mustard UI](https://kylelogue.github.io/mustard-ui/index.html) – CSS фреймворк для начинающих верстальщиков
 
 ## Главные фичи Mustard UI:
 
