@@ -1,6 +1,7 @@
+---
+tags: [linux, manjaro]
+---
 # Manjaro Linux
-
-Теги: #linux #manjaro
 
 Материал из [Википедии](https://ru.wikipedia.org/wiki/Manjaro_Linux) — свободной энциклопедии
 

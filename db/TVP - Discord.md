@@ -1,6 +1,7 @@
+---
+tags: [tvp, discord]
+---
 # TVP - Discord
-
-Теги: #tvp #discord
 
 ## Ссылки
 

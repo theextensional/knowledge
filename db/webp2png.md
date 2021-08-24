@@ -1,7 +1,7 @@
+---
+tags: [convert, webp, png, cli]
+---
 # How to Convert WebP to PNG in Linux
-
-Теги: #convert #webp #png #cli #linux #linuxtricks 
-
 
 ## Convert WebP to PNG
 

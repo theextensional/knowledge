@@ -1,6 +1,7 @@
+---
+tags: [программы, obsidian]
+---
 # Obsidian
-
-Теги: #программы #obsidian
 
 ## Ссылки
 

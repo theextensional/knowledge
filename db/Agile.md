@@ -1,6 +1,7 @@
+---
+tags: [agile]
+---
 # Agile
-
-Теги: #agile
 
 ## Ссылки
 

@@ -1,6 +1,7 @@
+---
+tags: [sublime, программы, текстовыйредактор]
+---
 # Sublime Text 3
-
-Теги: #sublime #программы #текстовыйредактор
 
 ![sublime-logo|100](../assets/sublime-logo.png)
 

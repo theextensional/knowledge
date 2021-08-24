@@ -1,6 +1,7 @@
+---
+tags: [проектвенера, жакфреско, роксанамедоуз, tvp]
+---
 # Проект «Венера» (TVP)
-
-Теги: #проектвенера #жакфреско #роксанамедоуз #tvp
 
 [![логотип Проекта Венера](../assets/1200px-The_Venus_Project_logo_and_wordmark.svg.png)](../assets/1200px-The_Venus_Project_logo_and_wordmark.svg.png)
 

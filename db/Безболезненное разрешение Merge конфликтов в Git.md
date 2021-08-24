@@ -1,6 +1,7 @@
+---
+tags: [git, программирование, туториал, руководство]
+---
 # Безболезненное разрешение Merge конфликтов в Git
-
-Теги: #git #программирование #туториал #руководство
 
 Предлагаю читателям "Хабрахабра" перевод публикации ["Painless Merge Conflict Resolution in Git"](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html) из блога blog.wuwon.id.au.
 

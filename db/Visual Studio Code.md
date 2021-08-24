@@ -1,6 +1,7 @@
+---
+tags: [vscode, текстовыйредактор, IDE]
+---
 # Visual Studio Code
-
-Теги: #vscode
 
 ## Extensions
 

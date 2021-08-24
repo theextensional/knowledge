@@ -1,6 +1,7 @@
+---
+tags: [поведение, психология, группа]
+---
 # Организационное поведение (youtube-плейлист)
-
-Теги: #поведение #психология #группа
 
 - [Организационное поведение](https://www.youtube.com/watch?v=RmsJuHJ-tg0&list=PLqW3u411sCU7fvFuWreYSmmQjMFlbWaaW)
 

@@ -1,6 +1,7 @@
+---
+tags: [bash, linux]
+---
 # Bash
-
-Теги: #bash #linux
 
 ![Файл:Bash Logo Colored.svg|192](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png)
 
