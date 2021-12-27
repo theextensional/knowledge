@@ -21,6 +21,9 @@
     "tchayen.markdown-links",
 
     // View Markdown files as a mindmap (https://markmap.js.org/)
-    "gera2ld.markmap-vscode"
+    "gera2ld.markmap-vscode",
+
+    // Extended Markup preview (Mermaid, flow previews) (https://shd101wyy.github.io/markdown-preview-enhanced)
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }
