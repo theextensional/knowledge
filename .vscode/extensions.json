@@ -17,10 +17,10 @@
     // [[wiki-links]], backlinking etc
     "kortina.vscode-markdown-notes",
 
-    // Adds `show graph` command that displays graph of linked notes
-    "tchayen.markdown-links",
+    // View Markdown files as a mindmap (https://markmap.js.org/)
+    "gera2ld.markmap-vscode",
 
-    // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    // Extended Markup preview (Mermaid, flow previews) (https://shd101wyy.github.io/markdown-preview-enhanced)
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }

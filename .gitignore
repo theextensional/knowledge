@@ -1,5 +1,6 @@
 .trash/*
 .obsidian/
+.vscode/settings.json
 **.directory
 daily/*
 ideas/*
