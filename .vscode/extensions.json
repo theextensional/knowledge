@@ -14,9 +14,6 @@
     // Tons of markdown goodies (lists, tables of content, so much more)
     "yzhang.markdown-all-in-one",
 
-    // [[wiki-links]], backlinking etc
-    "kortina.vscode-markdown-notes",
-
     // View Markdown files as a mindmap (https://markmap.js.org/)
     "gera2ld.markmap-vscode",
 
