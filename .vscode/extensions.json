@@ -2,22 +2,12 @@
     // See http://go.microsoft.com/fwlink/?LinkId=827846
     // for the documentation about the extensions.json format
     "recommendations": [
-        // Foam's own extension
         "foam.foam-vscode",
-
-        // Prettier for auto formatting code
         "esbenp.prettier-vscode",
-
-        // GitLens for seeing version history inline
         "eamodio.gitlens",
-
-        // Tons of markdown goodies (lists, tables of content, so much more)
         "yzhang.markdown-all-in-one",
-
-        // View Markdown files as a mindmap (https://markmap.js.org/)
         "gera2ld.markmap-vscode",
-
-        // Extended Markup preview (Mermaid, flow previews) (https://shd101wyy.github.io/markdown-preview-enhanced)
-        "shd101wyy.markdown-preview-enhanced"
+        "shd101wyy.markdown-preview-enhanced",
+        "davidanson.vscode-markdownlint"
     ]
 }
