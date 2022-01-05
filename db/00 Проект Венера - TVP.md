@@ -78,3 +78,6 @@ tags: [проектвенера, жакфреско, роксанамедоуз,
 ## Технологии проекта
 
 [Технологии проекта](TVP%20-%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.md)
+
+## Книги
+[https://archive.org/details/the-rings-of-venus](https://archive.org/details/the-rings-of-venus "https://archive.org/details/the-rings-of-venus")
