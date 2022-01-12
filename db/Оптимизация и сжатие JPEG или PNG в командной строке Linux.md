@@ -5,8 +5,8 @@ tags: [linux, compress, сжатие, cli, команднаястрока, linux
 
 You have a lot of images, and want to optimize and compress the images without losing its original quality before uploading them to any cloud or local storages? There are plenty of GUI applications available which will help you to optimize the images. However, here are two simple command line utilities to optimize images and they are:
 
-* **jpegoptim** – is a utility to optimize/compress JPEG files without loosing quality.
-* **OptiPNG** – is a small program that optimize PNG images to smaller size without losing any information.
+* **jpegoptim** - is a utility to optimize/compress JPEG files without loosing quality.
+* **OptiPNG** - is a small program that optimize PNG images to smaller size without losing any information.
 
 [![Compress and Optimize Images in Linux](https://www.tecmint.com/wp-content/uploads/2016/01/Compress-and-Optimize-Images-in-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/01/Compress-and-Optimize-Images-in-Linux.png)
 

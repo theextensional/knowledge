@@ -12,7 +12,7 @@ dwebp file.webp -o file.png
 If you want to convert image to jpg then use below command.
 
 ```bash
-dwebp 1.webp -o – | convert – 1.jpg
+dwebp 1.webp -o - | convert - 1.jpg
 ```
 
 For all files with extension webp in directory:

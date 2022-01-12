@@ -5,9 +5,9 @@ tags: [css, html, js, версткасайтов, фреймворк, вебра
 
 Детище Google появилось на свет в 2014 и до сих пор занимает лидирующие места в гонке фреймворков. [Materialize CSS](https://materializecss.com/) предлагает набор готовых к использованию компонентов в стиле Material Design.
 
-![Materialize CSS – современный фронтенд-фреймворк, основанный на Material Design](https://media.proglib.io/posts/2020/01/14/59911277b954e5688282555120c266e4.png)
+![Materialize CSS - современный фронтенд-фреймворк, основанный на Material Design](https://media.proglib.io/posts/2020/01/14/59911277b954e5688282555120c266e4.png)
 
-Materialize CSS – современный фронтенд-фреймворк, основанный на Material Design
+Materialize CSS - современный фронтенд-фреймворк, основанный на Material Design
 
 ## Главные фичи Materialize CSS:
 

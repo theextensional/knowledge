@@ -3,7 +3,7 @@ tags: [regex, программирование]
 ---
 # Регулярные выражения Regex
 
-- [Complete Regular Expressions Bootcamp – Go From Zero To Hero](https://freecoursesite.com/complete-regular-expressions-bootcamp-go-from-zero-to-hero/)
+- [Complete Regular Expressions Bootcamp - Go From Zero To Hero](https://freecoursesite.com/complete-regular-expressions-bootcamp-go-from-zero-to-hero/)
 
 ## Ссылки
 
