@@ -5,31 +5,33 @@ tags: [convert, webp, png, cli]
 
 ## Convert WebP to PNG
 
-```bash
+```sh
 dwebp file.webp -o file.png
 ```
 
 If you want to convert image to jpg then use below command.
 
-```bash
+```sh
 dwebp 1.webp -o - | convert - 1.jpg
 ```
 
 For all files with extension webp in directory:
-```bash
+
+```sh
 for i in ./*.webp; do dwebp "$i" -o "${i[@]/%webp/png}"; done
 ```
 
 ### Install libwebp
 
 Arch:
-```bash
+
+```sh
 pacman -S libwebp
 ```
 
 Deb:
 
-```bash
+```sh
 sudo apt install webp
 ```
 
@@ -43,7 +45,7 @@ The package provides the following tools:
 
 ## Convert WebP to PNG with ffmpeg
 
-```bash
+```sh
 ffmpeg -i file.webp file.png
 ```
 
@@ -51,13 +53,13 @@ ffmpeg -i file.webp file.png
 
 The opposite conversion might also be useful. In a number of situations, WebP provides a better compression ratio than PNG. To convert a PNG file to WebP, execute the following command:
 
-```bash
+```sh
 cwebp file.png -o file.webp
 ```
 
 The default quality for WebP is set to 75. You can increase or reduce it by specifying the -q argument for the encoder, as follows.
 
-```bash
+```sh
 cwebp -q 80 file.png -o file.webp
 ```
 
