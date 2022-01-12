@@ -36,13 +36,13 @@ tags: [community,auroville,коммуна,город,ауравиль]
 4. Вы можете работать в Ауровиле с незначительной зарплатой и вносить свой вклад в их дело, ничего не получая взамен.
 5. Ауровиль-ЗАКРЫТОЕ СООБЩЕСТВО. Когда я говорю "закрыто", это ОЧЕНЬ ЗАКРЫТОЕ Сообщество. Хотя есть много историй о нарушении гражданских прав, ничего не выходит наружу.
 6. Они возражают против любых сексуальных отношений, если вы станете жителем Ауровиля. Но это очень распространенное явление. Если кто-то забеременеет, он должен покинуть общество (с пустыми руками).
-7. Вы не можете рассуждать о власти внутри Ауровиля. Власть принадлежит определенному Кругу, она” ОСТАЕТСЯ " у них. Они являются органом, принимающим решения, вы просто сторонний наблюдатель или, я бы сказал, марионетка, которая танцует по их прихотям и кормит их своим временем и деньгами.
+7. Вы не можете рассуждать о власти внутри Ауровиля. Власть принадлежит определенному Кругу, она" ОСТАЕТСЯ " у них. Они являются органом, принимающим решения, вы просто сторонний наблюдатель или, я бы сказал, марионетка, которая танцует по их прихотям и кормит их своим временем и деньгами.
 
-Как новички, так и жители Ауровиля вносят фиксированную ежемесячную сумму в Ауровиль. Эти взносы используются для поддержания существующей инфраструктуры Ауровиля, включая дороги, медицинские услуги, образовательные учреждения, жилье для новичков и т.д. Кроме того, от каждого требуется единовременный взнос за администрирование, и вас попросят пожертвовать сумму в фонд репатриации. Для иностранцев необходимо предъявить Финансовому сервису обратный билет в их родную страну или сумму, эквивалентную стоимости такого билета, внесенного в Сервис. Эта последняя сумма будет возвращена вам, если вы решите или вас попросят покинуть Ауровиль, или после того, как вы станете жителем Ауровиля”.
+Как новички, так и жители Ауровиля вносят фиксированную ежемесячную сумму в Ауровиль. Эти взносы используются для поддержания существующей инфраструктуры Ауровиля, включая дороги, медицинские услуги, образовательные учреждения, жилье для новичков и т.д. Кроме того, от каждого требуется единовременный взнос за администрирование, и вас попросят пожертвовать сумму в фонд репатриации. Для иностранцев необходимо предъявить Финансовому сервису обратный билет в их родную страну или сумму, эквивалентную стоимости такого билета, внесенного в Сервис. Эта последняя сумма будет возвращена вам, если вы решите или вас попросят покинуть Ауровиль, или после того, как вы станете жителем Ауровиля".
 
 - Чтобы стать жителем Ауровиля, вы должны пожертвовать все свое имущество Ашраму (я слышал от местных жителей, что, если вы не дадите что-то, они вас не примут)
 - Если вы разорвете свои связи с Ашрамом, вам не дадут ничего, включая ваши активы. Вы останетесь нищим.
-- Они дадут вам три вещи: “ЕДУ, РАБОТУ и КРОВ”, вы должны смириться с тем, что получаете.
+- Они дадут вам три вещи: "ЕДУ, РАБОТУ и КРОВ", вы должны смириться с тем, что получаете.
 - Вы не можете подвергать сомнению систему или власть
 - Вы потеряете свои ГРАЖДАНСКИЕ ПРАВА
 - Это закрытое сообщество.
@@ -88,11 +88,11 @@ It doesn’t help that you don’t earn any money in the community and work opti
 
 <https://www.quora.com/Do-we-need-to-pay-any-fees-to-settle-in-auroville-Pondicherry>
 
-If you want to visit Auroville , I would suggest “Yes” but I would not suggest on settling there. Yes, I’m a Pondicherrian for the past 20 years.
+If you want to visit Auroville , I would suggest "Yes" but I would not suggest on settling there. Yes, I’m a Pondicherrian for the past 20 years.
 
-You would see a lot of posts showcasing the beauty, “CASHLESS living” and lot of other bulls. But nobody will tell you the scandals, rumors and bad tales among the locals. Below said are my knowledge, it is your responsibility in confirming everything before Joining. Please comment if wrong.
+You would see a lot of posts showcasing the beauty, "CASHLESS living" and lot of other bulls. But nobody will tell you the scandals, rumors and bad tales among the locals. Below said are my knowledge, it is your responsibility in confirming everything before Joining. Please comment if wrong.
 
-1) To be an Aurovillian you must give all the assets in your name to Auroville. I also think you may contribute to their cause for a period of time in terms of Technical Skill and Experiences. At the end of the day you might wanna give some monetary aids or they might brainwash you into funding them. The talk around the locals is that “If you give auroville Nothing, they will not take you in”.
+1) To be an Aurovillian you must give all the assets in your name to Auroville. I also think you may contribute to their cause for a period of time in terms of Technical Skill and Experiences. At the end of the day you might wanna give some monetary aids or they might brainwash you into funding them. The talk around the locals is that "If you give auroville Nothing, they will not take you in".
 
 2) Auroville will make you work at harsh conditions at the initial period to test if you can sustain inside auroville.
 
@@ -104,9 +104,9 @@ You would see a lot of posts showcasing the beauty, “CASHLESS living” and lo
 
 6) They object any sorts Sexual Relationship if you become an Aurovillian. But it’s very common. If one gets pregnant, they must leave the society (empty handed).
 
-7) You can’t reason the authority inside the Auroville. Power is vested within a certain Circle, it ‘REMAINS” with them. They are the decision making authority, you are just a bystander or I shall say puppet who dances to their whims & feed them with your time and money.
+7) You can’t reason the authority inside the Auroville. Power is vested within a certain Circle, it ‘REMAINS" with them. They are the decision making authority, you are just a bystander or I shall say puppet who dances to their whims & feed them with your time and money.
 
-8) Yes, auroville inhabits RACISM and Regionalism. In all my visits inside Auroville. I have never seen a Black people inside the community. Now(2018) I see some coloured people Working in Cafe’s and other Places around Auroville. But I don’t know if they mingle with the “Auroville Community”.
+8) Yes, auroville inhabits RACISM and Regionalism. In all my visits inside Auroville. I have never seen a Black people inside the community. Now(2018) I see some coloured people Working in Cafe’s and other Places around Auroville. But I don’t know if they mingle with the "Auroville Community".
 
 I can list out much more……
 
@@ -123,9 +123,9 @@ EDIT 1 : I see a lot of Views but no upvotes for this answer. I would like to su
 As for to support the information that you need to contribute something before joining the place. visit this link  
 [Joining Auroville](http://www.auroville.org/contents/93 "www.auroville.org")
 
-> “Financial contributions
+> "Financial contributions
 >
-> Both Newcomers and Aurovilians contribute a fixed monthly amount towards Auroville. These contributions are used to maintain the existing infrastructure of Auroville, including roads, health services, education facilities, Newcomer housing etc. Additionally, a one-time administration fee contribution is requested from everyone, and you will be asked to donate a repatriation fund amount. For foreigners a return ticket to their home country needs to be shown to the Financial Service, or an amount equivalent to the cost of such a ticket deposited with the Service. This latter sum will be returned to you should you decide or be requested to leave Auroville, or upon becoming an Aurovilian.”
+> Both Newcomers and Aurovilians contribute a fixed monthly amount towards Auroville. These contributions are used to maintain the existing infrastructure of Auroville, including roads, health services, education facilities, Newcomer housing etc. Additionally, a one-time administration fee contribution is requested from everyone, and you will be asked to donate a repatriation fund amount. For foreigners a return ticket to their home country needs to be shown to the Financial Service, or an amount equivalent to the cost of such a ticket deposited with the Service. This latter sum will be returned to you should you decide or be requested to leave Auroville, or upon becoming an Aurovilian."
 
 Though the link says that the sum will be refunded, it wont be. I have seen cases. And refer to the Sisters’ case I mentioned earlier(links provided) is one of them.
 ![screenshot comments FaceBook](https://qph.fs.quoracdn.net/main-qimg-bfe15f4fc42e7996aac5e2678ac7f874)
@@ -139,7 +139,7 @@ I will tell you the cons
 
 - Becoming an Aurovillian requires you to donate all your assets to Ashram (I have heard from the local peoples that, if you don’t give something they ain’t gonna take you in)
 - If you sever your ties with Ashram, you wont be given anything including your assets. You will be left a pauper.
-- They will give you three things “FOOD, JOB and SHELTER”, you must adjust with what you get.
+- They will give you three things "FOOD, JOB and SHELTER", you must adjust with what you get.
 - You can’t question the system or the authority
 - You will loose your CIVIL RIGHTS
 - They are a closed community.
@@ -152,7 +152,7 @@ Lots and Lots of Propaganda, Scandal and other Crimes !!
 U better search the Internet and Ask the Locals for info
 
 EDIT 1  
-This Answer has regular views but no upvotes, i dont know why. If you think it as an isolated opinion, please check the facebook pages such as Buzzfeed India, ScoopWhoop and some other popular pages. These pages does Regular Paid advertising drives. I have uploaded the screenshot of one of those drives, look at the comment section !! All I want to say is that “Don’t Relocate, just pay a visit. Understant the place, then Decide ”
+This Answer has regular views but no upvotes, i dont know why. If you think it as an isolated opinion, please check the facebook pages such as Buzzfeed India, ScoopWhoop and some other popular pages. These pages does Regular Paid advertising drives. I have uploaded the screenshot of one of those drives, look at the comment section !! All I want to say is that "Don’t Relocate, just pay a visit. Understant the place, then Decide "
 ![screenshot some comments](https://qph.fs.quoracdn.net/main-qimg-bfe15f4fc42e7996aac5e2678ac7f874)
 
 ## Ссылки
