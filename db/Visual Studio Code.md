@@ -3,7 +3,7 @@ tags: [vscode, текстовыйредактор, IDE]
 ---
 # Visual Studio Code
 
-## Extensions
+## Расширения
 
 ### Javasript
 
@@ -15,6 +15,6 @@ tags: [vscode, текстовыйредактор, IDE]
 
 * [Code Formatting with Prettier in Visual Studio Code](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
 
-## Ссылки на эту страницу
+## Ссылки
 
 * [Программы - Текстовые редакторы](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20-%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B.md)
