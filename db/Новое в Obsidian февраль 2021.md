@@ -1,9 +1,18 @@
 ---
 tags: [самоорганизация, презентация, obsidian]
-aliases: [obsidian]
+aliases: [obsidian tips and tricks, "обсидиан уловки, трюки, хитрости"]
 ---
 
+# Obsidian советы и подсказки
+
 ## YAML tags & aliases
+
+```yaml
+---
+tags: [самоорганизация, презентация, obsidian]
+aliases: [obsidian]
+---
+```
 
 ## Добавление комментариев
 
@@ -29,4 +38,6 @@ file:/^00/
 
 ## Вложенные теги
 
+```text
 #tag/a #tag/b
+```

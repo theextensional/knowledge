@@ -3,11 +3,11 @@ tags: [css, html, js, версткасайтов, фреймворк, вебра
 ---
 # Spectre - фреймворк
 
-[Spectre](https://picturepan2.github.io/spectre/) – классический компонентный CSS-фреймворк с элегантным дефолтным оформлением.
+[Spectre](https://picturepan2.github.io/spectre/) - классический компонентный CSS-фреймворк с элегантным дефолтным оформлением.
 
-![Spectre – элегантный CSS-фреймворк](https://media.proglib.io/posts/2020/01/14/568f3cd8f8a2ab394937831281560fd1.png)
+![Spectre - элегантный CSS-фреймворк](https://media.proglib.io/posts/2020/01/14/568f3cd8f8a2ab394937831281560fd1.png)
 
-Spectre – элегантный CSS-фреймворк
+Spectre - элегантный CSS-фреймворк
 
 ## Главные фичи Spectre:
 

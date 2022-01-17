@@ -5,7 +5,7 @@ tags: [css, html, js, версткасайтов, фреймворк, вебра
 
 Популярнейшая библиотека компонентов. В 2018 году вышел [Bootstrap 4](https://getbootstrap.com/). В нём ещё больше удобных утилит и модификаторов. Четвертая версия написана на [SASS](https://proglib.io/p/sass-for-15-minutes/), так что можно использовать в разработке все преимущества препроцессоров.
 
-![Bootstrap – самый популярный CSS фреймворк](https://media.proglib.io/posts/2020/01/14/7a08bc4c611e1ade7d1876d33baec9d5.png)
+![Bootstrap - самый популярный CSS фреймворк](https://media.proglib.io/posts/2020/01/14/7a08bc4c611e1ade7d1876d33baec9d5.png)
 
 ## Главные фичи Bootstrap:
 
