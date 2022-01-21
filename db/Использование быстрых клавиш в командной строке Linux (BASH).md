@@ -5,9 +5,6 @@ tags: [cli, linux, bash]
 
 ## Ссылки
 
-* https://habr.com/ru/company/lanit/blog/537596/
-
-## Ссылки на эту страницу
-
+* [Использование быстрых клавиш в командной строке Linux (BASH)](https://habr.com/ru/company/lanit/blog/537596/)
 * [Linux](Linux.md)
 * [Bash](Bash.md)

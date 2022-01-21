@@ -7,10 +7,7 @@ tags: [боты, discord]
 
 ## Ссылки
 
-* [Carl-bot Dashboard](https://carl.gg/)
-* [Плейлист по настройке](https://www.youtube.com/watch?v=wL_eT3r-I5E&list=PLkQ5EDOoNqElx2vuu8sSGSMlkHtD1qxtM)
-
-## Обратные ссылки
-
+- [Carl-bot Dashboard](https://carl.gg/)
+- [Плейлист по настройке](https://www.youtube.com/watch?v=wL_eT3r-I5E&list=PLkQ5EDOoNqElx2vuu8sSGSMlkHtD1qxtM)
 - [Discord](Discord.md)
 - [Боты для Discord](%D0%91%D0%BE%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20Discord.md)

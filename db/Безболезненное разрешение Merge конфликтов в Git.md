@@ -64,7 +64,7 @@ Are belong to you.
 Для того чтобы найти изменения внесённые в каждую ветку, необходимо знать как выглядит база слияния, состояние (A). Самый простой механизм получения информации о базе слияния, это установка опции merge.conflictstyle в значение diff3
 
 ```bash
-$ git config merge.conflictstyle diff3
+git config merge.conflictstyle diff3
 ```
 
 После включения этой опции, попробуйте заново сделать слияние (git reset --hard; git merge master) и проинспектируйте конфликтующий файл ещё раз:
@@ -102,12 +102,12 @@ Are belong to you.
 Для использования графического инструмента (он должен быть установлен), после того как git пожаловался что есть конфликт, введите следующую команду:
 
 ```bash
-$ git mergetool
+git mergetool
 ```
 
 Последует вопрос какой программой для слияния вы хотели бы воспользоваться, просто введите meld и нажмите Enter. Вот как окно программы может выглядеть (подразумевается опция merge.conflictstyle не была включена):
 
-![](http://3.bp.blogspot.com/_DzZflO6z3uM/TIzA-p3O6_I/AAAAAAAAAMY/ZX4FcjJ2pao/s640/meld1.png)
+![mergetool](http://3.bp.blogspot.com/_DzZflO6z3uM/TIzA-p3O6_I/AAAAAAAAAMY/ZX4FcjJ2pao/s640/meld1.png)
 
 Несмотря на то что информация представлена бок о бок, она не отображает нужные фрагменты которые были в Listing 2. Мы не видим здесь фрагмента базы слияния (состояния (A)), что мы видим это файл roses.txt.LOCAL.2760.txt в левой колонке и файл roses.txt.REMOTE.2760.txt в правой колонке и файл посередине это неудачное слияние. Т.е. по сути нам представили состояния (B), © и несостоявшееся состояние (D), но состояние (A) отсутствует...
 
@@ -125,19 +125,20 @@ roses.txt.REMOTE.2760.txt
 Видим интересующий нас файл: roses.txt.BASE.2760.txt. Это и есть файл базы слияния. Теперь нам осталось всего лишь найти изменения внесённые в ветки master и beta, по отношению к базе. Мы можем сделать это двумя отдельными вызовами meld:
 
 ```bash
-$ meld roses.txt.LOCAL.2760.txt roses.txt.BASE.2760 &
-$ meld roses.txt.BASE.2760 roses.txt.REMOTE.2760.txt &
+meld roses.txt.LOCAL.2760.txt roses.txt.BASE.2760 &
+meld roses.txt.BASE.2760 roses.txt.REMOTE.2760.txt &
 ```
 
 (Кто-то может подметить что было бы более разумно, поменять порядок аргументов в первом вызове, для того чтобы файл базы находился в левой колонке в обоих случаях, но именно такой порядок сохраняет подобие трёх-колоночного вида, при котором база остаётся по середине.) Результат выполнения — два окна как показано ниже:
 
-![](http://1.bp.blogspot.com/_DzZflO6z3uM/TIzB0vIY27I/AAAAAAAAAMg/sE3ozltiIlA/s400/meld2.png)![](http://4.bp.blogspot.com/_DzZflO6z3uM/TIzCBmifzNI/AAAAAAAAAMo/xh-L4QEYuEk/s400/meld3.png)
+![meld](http://1.bp.blogspot.com/_DzZflO6z3uM/TIzB0vIY27I/AAAAAAAAAMg/sE3ozltiIlA/s400/meld2.png)
+![meld](http://4.bp.blogspot.com/_DzZflO6z3uM/TIzCBmifzNI/AAAAAAAAAMo/xh-L4QEYuEk/s400/meld3.png)
 
 При чтении первого окна справа налево и второго окна слева направо, становится ясно как день, какие изменения произошли в каждой ветке. Так как meld любезно подсветил все изменения, теперь практически не возможно пропустить даже мелко заметные правки (Кто-нибудь заметил добавление предлога "of" при просмотре текстового представления разрешения конфликта Listing 1 или даже Listing 2?)
 
 Вооружившись этими знаниями, мы теперь можем вернуться к трёх-колоночному представлению и сделать изменения. Моя стратегия ручного слияния это взять весь текст из ветки с более весомыми изменениями (в данном случае master/REMOTE т.е. beta), и поверх него производить пошаговые правки, т.е. вносить изменения сделанные в другой ветке (master). Вот что получилось:
 
-![](http://4.bp.blogspot.com/_DzZflO6z3uM/TIzCHHultVI/AAAAAAAAAMw/dduPVP_LA6o/s640/meld4.png)
+![meld](http://4.bp.blogspot.com/_DzZflO6z3uM/TIzCHHultVI/AAAAAAAAAMw/dduPVP_LA6o/s640/meld4.png)
 
 ## А теперь всё вместе (All Together Now)
 
@@ -223,14 +224,8 @@ tmux split-window -t "$sn:1" -h "nvim -d $1 $3"
 
 Рекомендую всем поиграться с [примером репозитария](https://github.com/vbauerster/PainlessMergeConflict/blob/master/mergeconflict.tgz) хотя бы один раз, сделать разрешение конфликта по вышеописанной схеме. Лично я больше не гадаю а что же выбрать "Accept theirs" или "Accept yours".
 
-## Источник
-
-- https://habr.com/ru/post/323234/
-
 ## Ссылки
 
+- [Безболезненное разрешение Merge конфликтов в Git](https://habr.com/ru/post/323234/)
 - [Git -  merge конфликтов](Git%20-%20%20merge%20%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2.md)
-
-## Ссылки на эту страницу
-
 - [Git](Git.md)
