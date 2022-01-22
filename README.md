@@ -1,4 +1,4 @@
-# [Zettelkasten](Zettelkasten.md) в [Obsidian](Obsidian.md)
+# [Zettelkasten](db/Zettelkasten.md) в [Obsidian](db/Obsidian.md)
 
 ## С чего начать(подробнее)?
 
