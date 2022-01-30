@@ -236,15 +236,17 @@ elif not sys.version_info >= (3, 5):
 
 ``` py
 def print_argument(func):
-def wrapper(the_number):
-print("Argument for", 
-  func.__name__, 
-  "is", the_number)
-return func(the_number)
-return wrapper
+  def wrapper(the_number):
+    print("Argument for", 
+      func.__name__, 
+      "is", the_number)
+    return func(the_number)
+  return wrapper
+
 @print_argument
 def add_one(x):
-return x + 1
+  return x + 1
+
 print(add_one(1))
 ```
 
@@ -436,9 +438,9 @@ JMESpath - это язык запросов для JSON, который позв
 >>> import jmespath
 >>> persons = {
 ...   "persons": [
-... { "name": "erik", "age": 38 },
-... { "name": "john", "age": 45 },
-... { "name": "rob", "age": 14 }
+...     { "name": "erik", "age": 38 },
+...     { "name": "john", "age": 45 },
+...     { "name": "rob", "age": 14 }
 ...   ]
 ... }
 >>> jmespath.search('persons[*].age', persons)
