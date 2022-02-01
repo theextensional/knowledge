@@ -1,5 +1,6 @@
 ---
 tags: [web, программирование, api, спецификация, документация]
+aliases: [Документация API]
 ---
 # OpenAPI Specification
 
@@ -7,5 +8,6 @@ The OpenAPI Specification — формализованная специфика�
 
 ## Ссылки
 
+* [API](API.md)
 * [OpenAPI Specification - Version 3.0.3 | Swagger](https://swagger.io/specification/)
 * [Stoplight](https://stoplight.io/)
