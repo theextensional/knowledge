@@ -20,7 +20,7 @@ Using these two tools, you can either optimize a single or multiple images at a 
 
 To install **jpegoptim** on your Linux systems, run the following command from your terminal.
 
-#### On Debian and it’s Derivatives
+#### On Debian and it's Derivatives
 
 ```sh
 sudo apt install jpegoptim
@@ -51,7 +51,7 @@ jpegoptim filename.jpeg
 jpegoptim [options] filename.jpeg
 ```
 
-Let’s now compress the following `tecmint.jpeg` image, but before optimizing the image, first find out the actual size of the image using [du command](https://www.tecmint.com/check-linux-disk-usage-of-files-and-directories/) as shown.
+Let's now compress the following `tecmint.jpeg` image, but before optimizing the image, first find out the actual size of the image using [du command](https://www.tecmint.com/check-linux-disk-usage-of-files-and-directories/) as shown.
 
 ```sh
 du -sh tecmint.jpeg 
@@ -84,7 +84,7 @@ Optimize Image Fix Size
 
 ### Batch JPEG Image Compression and Optimization
 
-You might ask how to compress the images in the entire directory, that’s not difficult too. Go to the directory where you have the images.
+You might ask how to compress the images in the entire directory, that's not difficult too. Go to the directory where you have the images.
 
 ```sh
 tecmint@tecmint ~ $ cd img/
@@ -143,7 +143,7 @@ The installation and usage of **OptiPNG** is very similar to **jpegoptim**.
 
 To install **OptiPNG** on your Linux systems, run the following command from your terminal.
 
-#### On Debian and it’s Derivatives
+#### On Debian and it's Derivatives
 
 ```sh
 sudo apt install optipng
@@ -258,9 +258,9 @@ man optipng
 
 ## Conclusion
 
-If you’re a webmaster and wants to serve optimized images over your website or a blog, these tools can be very handy. These tools not only saves the disk space, but also the reduces the bandwidth while uploading the images.
+If you're a webmaster and wants to serve optimized images over your website or a blog, these tools can be very handy. These tools not only saves the disk space, but also the reduces the bandwidth while uploading the images.
 
-If you know any other better way to achieve same thing, do let us know via comments and don’t forget to share this article on your social networks and support us.
+If you know any other better way to achieve same thing, do let us know via comments and don't forget to share this article on your social networks and support us.
 
 ## Ссылки
 
