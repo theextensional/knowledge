@@ -3,7 +3,13 @@ tags: [vscode, текстовыйредактор, IDE]
 ---
 # Visual Studio Code
 
+- **Сайт:** https://code.visualstudio.com/ (англ.)
+
+Visual Studio Code — редактор исходного кода, разработанный Microsoft для Windows, Linux и macOS. Позиционируется как «лёгкий» редактор кода для кроссплатформенной разработки веб- и облачных приложений.
+
 ## Расширения
+
+- [awesome-vscode](https://viatsko.github.io/awesome-vscode/)
 
 ### Javasript
 
@@ -17,4 +23,5 @@ tags: [vscode, текстовыйредактор, IDE]
 
 ## Ссылки
 
-* [Программы - Текстовые редакторы](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20-%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B.md)
+* [Программы](Программы.md)
+  * [Программы - Текстовые редакторы](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20-%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B.md)
