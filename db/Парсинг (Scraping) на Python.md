@@ -1,10 +1,16 @@
 ---
-tags: [python]
+tags: [python, парсинг, scrapping]
 ---
-# Python парсинг
+# Парсинг/Scraping на Python
 
-- [ZProger ( IT )](https://youtube.com/playlist?list=PL6plRXMq5RADYaw4Xo111smBcEPNMhdHf)
+## Руководства
+
 - [PythonToday](https://youtube.com/playlist?list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la)
+- [ZProger ( IT )](https://youtube.com/playlist?list=PL6plRXMq5RADYaw4Xo111smBcEPNMhdHf)
+
+## Сервисы и программы
+
+- [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker)
 
 ## Ссылки
 
