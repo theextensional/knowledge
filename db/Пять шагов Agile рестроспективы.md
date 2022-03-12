@@ -141,3 +141,4 @@ P.S. А когда у вас совсем нет времени, подойде�
 ## Ссылки
 
 * [Источник](https://filipyev.ru/2018/07/25/pyat-shagov-restrospektivy-konceptualnaya-karta/)
+* [Agile](Agile.md)
