@@ -23,3 +23,5 @@ JavaScript-код может выполняться в браузерах, на 
 - [ES6, ES7, ES8 - ВСЕ НОВОВВЕДЕНИЯ В JAVASCRIPT](https://youtu.be/Ti2Q4sQkNdU)
 - [JavaScript. 18 способов сократить JS код](https://www.youtube.com/watch?v=ReE8k-SHnbM)
 - [JavaScript разработка в 2021](https://www.youtube.com/watch?v=181VnUUJq-Y)
+- [12 приемов работы с JavaScript, которых нет в большинстве туториалов](https://habr.com/ru/company/skillbox/blog/446770/)
+- [JavaScript собеседование. Практика](https://vladilen.notion.site/JavaScript-473541d86991472fb844c5fa35d5dbf4)
