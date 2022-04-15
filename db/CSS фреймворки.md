@@ -27,21 +27,21 @@ tags: [css, фреймворк, программирование]
 
 ## Выбираем CSS фреймворк
 
-* [Bootstrap](Bootstrap%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Foundation](Foundation%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Pure](Pure%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Bulma](Bulma%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Semantic UI](Semantic%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [UI Kit](UI%20Kit%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Materialize CSS](Materialize%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Milligram](Milligram%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Skeleton](Skeleton%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Tailwind CSS](Tailwind%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Spectre](Spectre%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Base](Base%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Picnic CSS](Picnic%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Mustard UI](Mustard%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
-* [Dead Simple Grid](Dead%20Simple%20Grid%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Bootstrap](Bootstrap%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Foundation](Foundation%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Pure](Pure%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Bulma](Bulma%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Semantic UI](Semantic%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [UI Kit](UI%20Kit%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Materialize CSS](Materialize%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Milligram](Milligram%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Skeleton](Skeleton%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Tailwind CSS](Tailwind%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Spectre](Spectre%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Base](Base%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Picnic CSS](Picnic%20CSS%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Mustard UI](Mustard%20UI%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
+- [Dead Simple Grid](Dead%20Simple%20Grid%20-%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA.md)
 
 ## Как сделать выбор?
 
@@ -49,13 +49,13 @@ CSS фреймворки предлагают много готового код
 
 Основные значащие факторы:
 
--   Размер файлов фреймворка или библиотеки.
--   Необходимый набор компонентов.
--   Наличие или отсутствие JavaScript-сопровождения.
--   Поддержка препроцессоров.
--   Концептуальный подход.
+- Размер файлов фреймворка или библиотеки.
+- Необходимый набор компонентов.
+- Наличие или отсутствие JavaScript-сопровождения.
+- Поддержка препроцессоров.
+- Концептуальный подход.
 
 ## Ссылки
 
-* [CSS](CSS.md)
-* [00 Программирование](00%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md)
+- [CSS](CSS.md)
+- [00 Программирование](00%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md)
