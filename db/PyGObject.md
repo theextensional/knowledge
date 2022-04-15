@@ -23,7 +23,13 @@ aliases: [PyGTK]
 - [GNOME Music - a music player for GNOME](https://github.com/GNOME/gnome-music)
 - [Lollypop - a modern music player](https://gitlab.gnome.org/World/lollypop)
 
+## Примеры
+
+- <https://github.com/afiskon/py-gtk-example>
+- <https://github.com/timlau/gtk4-python>
+
 ## Ссылки
 
 - [Python](Python.md)
 - [GUI фреймворки Python](GUI%20фреймворки%20Python.md)
+- [GTK4](GTK4.md)
