@@ -25,3 +25,4 @@ JavaScript-код может выполняться в браузерах, на 
 - [JavaScript разработка в 2021](https://www.youtube.com/watch?v=181VnUUJq-Y)
 - [12 приемов работы с JavaScript, которых нет в большинстве туториалов](https://habr.com/ru/company/skillbox/blog/446770/)
 - [JavaScript собеседование. Практика](https://vladilen.notion.site/JavaScript-473541d86991472fb844c5fa35d5dbf4)
+- [Владилен Минин. JavaScript Основы для Начинающих - Полный Курс за 6 часов. 2020](https://youtu.be/Bluxbh9CaQ0)
