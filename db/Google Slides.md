@@ -1,9 +1,10 @@
 ---
-tags: [google/slides,презентация,оформление,дизайн]
+tags: [google/slides, презентация, оформление, дизайн]
+aliases: [Гугл презентации]
 ---
 # Google Slides
 
-Just typing `slide.new` in web-browser for create a NEW Google Slide
+Просто наберите `slide.new` в веб-браузере для создания НОВОЙ Google Презентации.
 
 ## Ссылки
 
