@@ -1,9 +1,10 @@
 ---
-tags: [google/docs,документы]
+tags: [google/docs, документы]
+aliases: [Гугл документы]
 ---
 # Google Docs
 
-Just typing `doc.new` in web-browser for create a NEW Google Doc
+Просто наберите `doc.new` в веб-браузере для создания НОВОГО Google Документа.
 
 ## Ссылки
 

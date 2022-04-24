@@ -3,7 +3,7 @@ tags: [tvp, проектвенера, сообщество]
 ---
 # Сообщества
 
-### [Старый список ТВП](http://directory.tvpsupport.com/)
+## [Старый список ТВП](http://directory.tvpsupport.com/)
 
 ### США 🇺🇸 - Международные
 
@@ -32,13 +32,13 @@ tags: [tvp, проектвенера, сообщество]
 - [Discord](https://discord.gg/Rdq4evH8gs)
 - [Проект Венера - Материалы](http://www.tvpactivism.ru/)
 - Telegram
-  - https://t.me/TheVenusProjectBot @TheVenusProjectBot - бот с расширенными настройками
+  - <https://t.me/TheVenusProjectBot> @TheVenusProjectBot - бот с расширенными настройками
   - [https://t.me/TheVenusProjectRUS](https://t.me/TheVenusProjectRUS "https://t.me/TheVenusProjectRUS") (канал с ботом)
-  - https://t.me/TheVenusProject @TheVenusProject - международный англоязычный канал
-  - t.me/addstickers/JacqueFresco - наши стикеры
-  - https://t.me/proekt_venera - неофициальный (????)
-  - https://t.me/assistancetvp - неофициальный (Давид Малко)
-  - https://t.me/zhakfuturetown - неофициальный (Анастасий Канаридис
+  - <https://t.me/TheVenusProject> @TheVenusProject - международный англоязычный канал
+  - <https://t.me/addstickers/JacqueFresco> - наши стикеры
+  - <https://t.me/proekt_venera> - неофициальный (????)
+  - <https://t.me/assistancetvp> - неофициальный (Давид Малко)
+  - <https://t.me/zhakfuturetown> - неофициальный (Анастасий Канаридис)
   - [https://t.me/loversofthefuture](https://t.me/loversofthefuture "https://t.me/loversofthefuture") (флудилка по ПВ без модерации)
   - [Trello RU](https://trello.com/b/0uoBNkMF/%D0%BF%D1%80%D0%B8%D1%88%D0%B5%D0%BB-%D1%83%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB)
 
@@ -49,4 +49,3 @@ tags: [tvp, проектвенера, сообщество]
 ### Аргентина 🇦🇷
 
 - [Facebook](https://www.facebook.com/TVPSupportArgentina/)
-
