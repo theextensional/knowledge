@@ -1,5 +1,5 @@
 ---
-tags: [vscode, текстовыйредактор, IDE]
+tags: [vscode, текстовыйредактор, IDE, программа]
 ---
 # Visual Studio Code
 
