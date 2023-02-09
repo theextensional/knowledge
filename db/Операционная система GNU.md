@@ -7,4 +7,4 @@ aliases: [GNU]
 
 ## Ссылки
 
-* [Linux](Linux.md)
+- 
