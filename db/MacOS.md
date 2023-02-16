@@ -1,8 +1,7 @@
 ---
 tags: [macos]
 ---
-# macOS
+# MacOS
 
 ## Ссылки
 
-* [Bash](Bash.md)
