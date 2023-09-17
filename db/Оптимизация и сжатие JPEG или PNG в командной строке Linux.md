@@ -265,5 +265,5 @@ If you know any other better way to achieve same thing, do let us know via comme
 ## Ссылки
 
 * [Источник](https://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/)
-* [Linux](Linux.md)
+* [GNU & Linux](GNU%20&%20Linux.md)
 * [Bash](Bash.md)
